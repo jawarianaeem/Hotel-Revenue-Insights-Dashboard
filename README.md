@@ -5,7 +5,7 @@
 The **Hotel Revenue Insights Dashboard** aims to provide a comprehensive analysis of hotel revenue by examining key factors like arrival time, distribution channels, and market segments. The dashboard is designed to give hotel management teams actionable insights into their revenue performance, helping them make informed decisions to optimize revenue streams.
 
 ## Dataset Used
-<a href= " "></a>
+<a href= "https://github.com/jawarianaeem/Hotel-Revenue-Insights-Dashboard/blob/main/hotel_booking.xlsx ">Dataset Link</a>
 
 The dataset for this project includes hotel booking data, which consists of the following fields:
 - **Arrival Time:** Date of guest arrival (yearly and monthly breakdown).
